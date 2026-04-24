@@ -7,7 +7,7 @@
 > 📌 本文主要是介绍 Nextin 代理客户端简介、下载和使用方法，不做任何背书。
 >
 > 不提供接入服务、账号处理、节点维护和售后支持，请在合法合规前提下自行判断与使用相关服务。
-
+> 
 > 📒 最后更新：**2026-04-24**
 
 > [!WARNING]
@@ -20,7 +20,7 @@
 ## Nextin 下载地址
 
 - 您可以通过以下链接访问 App Store 页面：
-  - **App Store**地址： https://www.google.com/search?q=https://apps.apple.com/app/nextin/id6754002454
+  - **App Store**地址：[https://apps.apple.com/us/app/nextin/id6754002454](https://apps.apple.com/us/app/nextin/id6754002454)
 
 - 如果在 App Store 中无法通过链接打开，可以直接搜索：**Nextin、星拓**
 
