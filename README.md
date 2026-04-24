@@ -1,4 +1,4 @@
-# Nextin (星拓) App 客户端简介、下载与使用教程 (iOS/macOS/Apple TV)
+# Nextin (星拓) App 客户端简介、下载与使用教程
 
 **Nextin（星拓）** 是一款基于 Clash Meta (Mihomo) 内核开发的代理 App 客户端，专为 Apple 生态设计。它以“降低使用门槛”和“原生体验”为核心，是目前 iOS 和 macOS 平台上新兴的高性能代理工具。
 
