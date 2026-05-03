@@ -8,7 +8,7 @@
 >
 > 不提供接入服务、账号处理、节点维护和售后支持，请在合法合规前提下自行判断与使用相关服务。
 > 
-> 📒 最后更新：**2026-04-24**
+> 📒 最后更新：**2026-05-03**
 
 > [!WARNING]
 > 本仓库内容为原创整理，禁止整段复制、镜像式搬运、长期针对性跟抄行为。  
@@ -99,6 +99,26 @@ Apple Vision Pro：原生适配 visionOS。
 
 如果您正在寻找一款能在 iPhone、Mac 和 Apple TV 上同步配置且操作直观的工具，Nextin 是目前非常值得尝试的选择。您可以通过 App Store 搜索“Nextin”或“星拓”获取。
 
+
+## 支持 Nextin 机场名单
+1、青云梯：<a href="https://jichangbaike.com/qingyunti-review/">https://jichangbaike.com/qingyunti-review/</a>
+
+2、银河云：<a href="https://jichangbaike.com/galaxycloud-review/">https://jichangbaike.com/galaxycloud-review/</a>
+
+3、肥猫云：<a href="https://jichangbaike.com/fatcatcloud-review/">https://jichangbaike.com/fatcatcloud-review/</a>
+
+4、龙猫云：<a href="https://jichangbaike.com/totorocloud-review/">https://jichangbaike.com/totorocloud-review/</a>
+
+5、flyingbird：<a href="https://jichangbaike.com/flyingbird-review/">https://jichangbaike.com/flyingbird-review/</a>
+
+6、一云梯：<a href="https://jichangbaike.com/1yunti-review/">https://jichangbaike.com/1yunti-review/</a>
+
+7、闪狐云：<a href="https://jichangbaike.com/flashfox-review/">https://jichangbaike.com/flashfox-review/</a>
+
+8、飞天猪：<a href="https://jichangbaike.com/fliggycloud-review/">https://jichangbaike.com/fliggycloud-review/</a>
+
+<span style="color: #ff0000;"><em>如果链接无法打开，请使用代理。</em></span>
+
 ## 版权说明
 
 本仓库内容由维护者持续整理与更新，包括 README 文案、章节结构、说明顺序、FAQ 框架及相关衍生表达。
@@ -108,5 +128,5 @@ Apple Vision Pro：原生适配 visionOS。
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`
-- **Last Updated:** `2026-04-24`
-- **Version:** `v1.0`
+- **Last Updated:** `2026-05-03`
+- **Version:** `v1.1`
